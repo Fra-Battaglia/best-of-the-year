@@ -1,0 +1,7 @@
+body {
+	background-image: url('/img/brick.png');
+}
+
+img.panda {
+	width: 200px;
+}
